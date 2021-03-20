@@ -5,7 +5,12 @@ Vamos focar nos problemas de algoritmos nesse grupo de estudos, e eles são bast
 
 ## Chapter 1 - Arrays and Strings
 
-### Conhecimento 
+### Para pesquisar
+
+- Arrays em Python
+- Strings em Python
+- HashTable
+- StringBuilder
 
 ### Problemas
 
