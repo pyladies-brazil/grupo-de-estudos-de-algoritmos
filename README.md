@@ -16,7 +16,7 @@ O guia para os encontros está [nessa página](./cracking-the-coding-interview/R
 
 # Como começar
 
-1 - Crie seu repositorio com os algoritmos (sugestões de nome: grupo-de-estudos-algoritmos, pyladies-algoritmos, pyladies-grupo-estudo-algoritmos, ou qualquer coisa que vier na sua cabeça)
-2 - Adicione o repositorio criado no arquivo [PARTICIPANTES.md](./PARTICIPANTES.md) e crie um pull-request para este repositório.
-3 - Participe dos encontros para tirar dúvidas, ou se baseie nas issues do GitHub pra trabalhar no seu proprio tempo.
-4 - Tire duvidas no canal do Slack #brasil-pyladies-algoritmos entre os encontros!
+- Crie seu repositorio com os algoritmos (sugestões de nome: grupo-de-estudos-algoritmos, pyladies-algoritmos, pyladies-grupo-estudo-algoritmos, ou qualquer coisa que vier na sua cabeça)
+- Adicione o repositorio criado no arquivo [PARTICIPANTES.md](./PARTICIPANTES.md) e crie um pull-request para este repositório.
+- Participe dos encontros para tirar dúvidas, ou se baseie nas issues do GitHub pra trabalhar no seu proprio tempo.
+- Tire duvidas no canal do Slack #brasil-pyladies-algoritmos entre os encontros!
